@@ -1,0 +1,20 @@
+var fromGreeting = 'Hello World';
+var country1 = 'Spain';
+var message1 = 'Hola'
+var country2 = 'Netherlands';
+var message2 = 'Hallo';
+var country3 = 'Germany';
+var country4 = 'Poland';
+var message4 = 'Witam';
+var country5 = 'France';
+var message5 = 'Bonjour';
+var country6 = 'Sweden';
+var message6 = 'Hej';
+
+
+gs.info(fromGreeting + ' in ' + country1 + ' ==> ' + message1);
+gs.info(fromGreeting + ' in ' + country2 + ' ==> ' + message2);
+gs.info(fromGreeting + ' in ' + country3 + ' ==> ' + message2);
+gs.info(fromGreeting + ' in ' + country4 + ' ==> ' + message4);
+gs.info(fromGreeting + ' in ' + country5 + ' ==> ' + message5);
+gs.info(fromGreeting + ' in ' + country6 + ' ==> ' + message6);
